@@ -24,3 +24,5 @@ The temple is not directly accessible by road and has to be reached by a 22 ki
 * Fish
 * Burger
 * Salad
+
+* [Source of Mystats.md file link](./MyStats.md)
