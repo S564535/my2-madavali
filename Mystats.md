@@ -66,6 +66,6 @@ for (i = 0; i < pathArray.length; i++) {
 
 ```
 
-[Source of stack overflow code](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)
+[Source of css snippet](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)
 
 
