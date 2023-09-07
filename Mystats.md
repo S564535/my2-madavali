@@ -37,3 +37,35 @@ Sports table task completed.
 >"I'm not interested in money. I just want to be wonderful." - Marilyn Monroe
 
 ***
+
+## CODE FENCING:
+
+>
+
+```
+function myAPI(someNum, someString) {
+  if (someNum > 0) {
+    leakCredentials();
+  } else {
+    console.log(someString);
+  }
+}
+
+```
+
+[Source of stack overflow code](https://stackoverflow.blog/2019/09/12/practical-ways-to-write-better-javascript/)
+
+>
+```
+
+var newPathname = "";
+for (i = 0; i < pathArray.length; i++) {
+  newPathname += "/";
+  newPathname += pathArray[i];
+}
+
+```
+
+[Source of stack overflow code](https://css-tricks.com/snippets/javascript/get-url-and-url-parts-in-javascript/)
+
+
