@@ -26,4 +26,14 @@ Here is the list of sports, I would recommend someone to try because sports play
 | Hockey   | Its very spotive game  |  4 hrs                |
 
 
-Sports table task completed
+Sports table task completed.
+
+
+***
+### Author Quotes:
+
+>"I'm not here to be perfect, I'm here to be real." - Lady Gaga
+
+>"I'm not interested in money. I just want to be wonderful." - Marilyn Monroe
+
+***
