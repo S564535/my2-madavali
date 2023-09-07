@@ -18,3 +18,9 @@ The temple is not directly accessible by road and has to be reached by a 22 ki
 3. We did Dancing later.
 2. Finally we reached home safely.
 
+
+* chapati
+* Mutton
+* Fish
+* Burger
+* Salad
